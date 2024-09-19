@@ -1,4 +1,4 @@
-#Introduction:
+# Introduction:
 
 This project presents an innovative approach to intruder detection leveraging computer vision 
 integrated within the Cisco Packet Tracer simulation environment. As network security 
@@ -13,7 +13,7 @@ demonstrate the system’s efficiency in promptly detecting and alerting adminis
 unauthorized access, thereby offering a robust tool for improving network security practices 
 and training. 
 
-#Working:
+# Working:
 
 Our project is on intruder detection at home using Cisco Packet Tracer, incorporating a Home 
 Gateway (DLG100), Siren, Motion Detector, CCTV, Lights , a representation of the front 
